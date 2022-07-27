@@ -11,7 +11,7 @@ xargsuk@github
 OS:         AlmaLinux 8.4
 Nickname:   xargs
 Location:   England, UK
-Job:        Linux Manager
+Job:        AWS Squad Leader
 Hobbies:    IaC, Pentesting, Games
 Discord:    xargs#0001    
                      
