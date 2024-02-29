@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/braddunc/**
 
-- 😄 Pronouns: he/him
-
 ## 📈 GitHub Stats
 
 [![XargsUK's GitHub stats-Dark](https://ghstats.xargz.dev/api?username=xargsuk&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/xargsuk/github-readme-stats#gh-dark-mode-only)
