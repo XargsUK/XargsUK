@@ -12,7 +12,6 @@
 [![XargsUK's GitHub stats-Dark](https://ghstats.xargz.dev/api?username=xargsuk&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/xargsuk/github-readme-stats#gh-dark-mode-only)
 [![XargsUK's GitHub stats-Light](https://ghstats.xargz.dev/api?username=xargsuk&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/xargsuk/github-readme-stats#gh-light-mode-only)
 [![XargsUK's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=xargsuk&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=xargsuk&theme=dark)
-[![Readme Card](https://ghstats.xargz.dev//api/pin/?username=xargsuk&repo=github-readme-stats)](https://github.com/xargsuk/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/braddunc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="braddunc" height="30" width="40" /></a>
