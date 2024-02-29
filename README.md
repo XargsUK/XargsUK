@@ -5,7 +5,7 @@
 
 - 👨‍💻 I create opensource Lambdas and tools for AWS
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/braddunc/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/braddunc/)
 
 ## 📈 GitHub Stats
 
