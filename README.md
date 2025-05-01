@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brad</h1>
 <h3 align="center">A passionate AWS DevOps engineer from Manchester</h3>
 
-- 🌱 I'm currently learning **vector databases (Pinecone/Milvus)**
-
-- 👨‍💻 I create opensource Lambdas and tools for AWS
-
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/braddunc/)
-
 ## 📈 GitHub Stats
 
 [![XargsUK's GitHub stats-Dark](https://ghstats.xargz.dev/api?username=xargsuk&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/xargsuk/github-readme-stats#gh-dark-mode-only)
